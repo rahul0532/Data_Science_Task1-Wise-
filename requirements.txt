@@ -1,8 +1,12 @@
-pandas
 numpy
-scikit-learn
+pandas
+scipy
 matplotlib
 seaborn
+scikit-learn
 xgboost
 lightgbm
 shap
+lime
+jupyter
+ipykernel
