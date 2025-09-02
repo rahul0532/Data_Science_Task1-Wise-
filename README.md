@@ -123,8 +123,7 @@ Example:  A customer might churn due to **high support tickets, low activity, an
 * **Rahul Raj**
 
   * 💼 B.Tech in CSE (AI & ML Specialization) – Alliance University, Bangalore
-  * 🌱 Focus areas: Machine Learning, Explainable AI, Computer Vision
-  * 📧 Contact: *\[Your email here]*
+  * 📧 Contact: **mrahulraj56@gmail.com
   * 🔗 GitHub: [rahul0532](https://github.com/rahul0532)
 
 ---
@@ -135,4 +134,3 @@ This project is licensed under the **MIT License** – feel free to use and adap
 
 ---
 
-👉 Rahul, do you want me to also add **usage examples with code snippets** (e.g., how to load the saved model and predict churn for new customer data) inside the README?
