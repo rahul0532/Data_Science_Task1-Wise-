@@ -7,6 +7,6 @@ scikit-learn
 xgboost
 lightgbm
 shap
-lime
+smote
 jupyter
 ipykernel
